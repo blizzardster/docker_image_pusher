@@ -1,6 +1,18 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 caddy:2.8.4
+--platform=linux/amd64 nginx:1.26.1
+--platform=linux/amd64 httpd:2.4.59
+--platform=linux/amd64 tomcat:10.1.24-jdk21
+--platform=linux/amd64 mysql:5.7.44
+--platform=linux/amd64 mysql:8.4.0
+--platform=linux/amd64 mariadb:10.11.8
+--platform=linux/amd64 redis:7.0.15
+--platform=linux/amd64 redis:7.2.5
+--platform=linux/amd64 postgres:16.3
+--platform=linux/amd64 jc21/nginx-proxy-manager:2.11.2
+--platform=linux/amd64 qbittorrentofficial/qbittorrent-nox:4.6.5-1
+--platform=linux/amd64 nextcloud/all-in-one:20240606_075829-latest
+--platform=linux/amd64 nextcloud:28.0.6-apache
+--platform=linux/amd64 onlyoffice/documentserver:8.0.1.1
+--platform=linux/amd64 louislam/uptime-kuma:1.23.13
+--platform=linux/amd64 hslr/sun-panel:1.4.0
+--platform=linux/amd64 deluan/navidrome:0.52.5
