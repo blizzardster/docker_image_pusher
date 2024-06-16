@@ -15,7 +15,7 @@ qbittorrentofficial/qbittorrent-nox:4.6.5-1
 nextcloud/all-in-one:20240606_075829-latest
 nextcloud:28.0.6-apache
 onlyoffice/documentserver:8.0.1.1
-louislam/uptime-kuma:1.23.13
+louislam/uptime-kuma:1
 hslr/sun-panel:1.4.0
 deluan/navidrome:0.52.5
 irinesistiana/mosdns:v5.3.1
