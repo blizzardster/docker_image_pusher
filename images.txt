@@ -1,2 +1,4 @@
-ghcr.io/paperless-ngx/paperless-ngx:latest
-ghcr.io/gethomepage/homepage:latest
+mariadb:10.11
+mariadb:11
+redis:7.0
+redis:7
