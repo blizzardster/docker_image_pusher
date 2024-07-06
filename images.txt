@@ -1,3 +1,1 @@
-onlyoffice/documentserver:8.1.0.1
-onlyoffice/mailserver:1.6.75
-onlyoffice/communityserver:12.6.0.1900
+adguard/adguardhome:v0.107.52
