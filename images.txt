@@ -1,1 +1,1 @@
-docker pull httpd:2.4.61
+pull httpd:2.4.61
