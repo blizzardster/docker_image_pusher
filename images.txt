@@ -1,1 +1,1 @@
-apache/answer:1.3.6
+jc21/nginx-proxy-manager
