@@ -1,1 +1,1 @@
-surveyking/surveyking:latest
+frooodle/s-pdf:0.27.0-fat
