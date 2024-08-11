@@ -1,1 +1,1 @@
-surveyking/surveyking
+traefik:v3.1.2
