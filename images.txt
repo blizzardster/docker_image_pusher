@@ -1,2 +1,1 @@
-hslr/sun-panel:1.5.1
-ghcr.io/paperless-ngx/paperless-ngx:latest
+apache/answer:1.3.6
