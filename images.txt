@@ -1,1 +1,1 @@
-pymumu/smartdns:latest
+ghcr.io/gethomepage/homepage:latest
