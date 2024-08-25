@@ -1,1 +1,1 @@
-docker pull papermerge/papermerge:3.2
+papermerge/papermerge:3.2
