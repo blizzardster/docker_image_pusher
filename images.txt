@@ -1,1 +1,1 @@
-papermerge/papermerge:3.2
+hslr/sun-panel:1.5.2
