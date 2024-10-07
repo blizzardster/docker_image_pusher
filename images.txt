@@ -1,1 +1,2 @@
-linzeyi/hivision_idphotos
+louislam/uptime-kuma:1.23.15
+ghcr.io/paperless-ngx/paperless-ngx:latest
