@@ -1,2 +1,1 @@
-louislam/uptime-kuma:1.23.15
-ghcr.io/paperless-ngx/paperless-ngx:latest
+portainer/portainer-ce:2.21.3
