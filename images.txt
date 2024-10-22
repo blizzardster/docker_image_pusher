@@ -1,2 +1,1 @@
-jeessy/ddns-go:v6.7.2
-newfuture/ddns:v3.0.2
+frooodle/s-pdf:0.30.1-fat
