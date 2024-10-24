@@ -1,7 +1,1 @@
-portainer/portainer-ce:2.21.4
-nginx:1.26.2
-httpd:2.4.62
-tomcat:10.1.30-jdk21
-mysql:8.0.40
-mysql:8.4.3
 qbittorrentofficial/qbittorrent-nox:4.6.7-1
