@@ -1,1 +1,17 @@
+portainer/portainer-ce:2.21.4
+adguard/adguardhome:v0.107.54
+caddy:2.8.4
+nginx:1.26.2
+httpd:2.4.62
+tomcat:10.1.31-jdk21
+mysql:8.4.3
+redis:7.0.15
+redis:7.2.6
+redis:7.4.1
+postgres:17.0
+postgres:16.4
+postgres:14.13
+postgres:13.16
+jc21/nginx-proxy-manager:2.12.1
 qbittorrentofficial/qbittorrent-nox:4.6.7-1
+qbittorrentofficial/qbittorrent-nox:5.0.1-1
