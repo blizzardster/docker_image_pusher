@@ -1,1 +1,2 @@
-frooodle/s-pdf:0.32.0-fat
+stirlingtools/stirling-pdf:0.33.1-fat
+linzeyi/hivision_idphotos:v1.3.0
