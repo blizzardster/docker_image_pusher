@@ -1,1 +1,4 @@
-ghcr.io/gethomepage/homepage:latest
+portainer/portainer-ce:2.21.5
+adguard/adguardhome:v0.107.55
+qbittorrentofficial/qbittorrent-nox:5.0.3-1
+apache/answer:1.4.1
