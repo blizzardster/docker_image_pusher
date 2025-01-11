@@ -1,1 +1,2 @@
-caddy:2.9.1
+phpipam/phpipam-www:v1.7.3
+phpipam/phpipam-cron:v1.7.3
