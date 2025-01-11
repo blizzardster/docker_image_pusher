@@ -1,2 +1,1 @@
-phpipam/phpipam-www:v1.7.3
-phpipam/phpipam-cron:v1.7.3
+nocodb/nocodb:0.260.1
