@@ -1,10 +1,1 @@
-redis:6.2.17
-redis:7.2.7
-redis:7.4.2
-postgres:17.2
-postgres:16.6
-postgres:15.10
-postgres:14.15
-postgres:13.18
-jc21/nginx-proxy-manager:2.12.2
-louislam/uptime-kuma:1.23.16
+caddy:2.9.1
