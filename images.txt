@@ -1,1 +1,1 @@
-stirlingtools/stirling-pdf:0.36.6-fat
+nocodb/nocodb:0.260.2
