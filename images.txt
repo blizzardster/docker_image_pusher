@@ -1,2 +1,1 @@
-stirlingtools/stirling-pdf:0.38.0-fat
-ghcr.io/paperless-ngx/paperless-ngx:latest
+papermerge/papermerge:3.3.1
