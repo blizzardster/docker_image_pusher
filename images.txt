@@ -1,1 +1,2 @@
-ghcr.io/toeverything/affine-graphql:stable
+outlinewiki/outline:0.81.1
+requarks/wiki:2.5
