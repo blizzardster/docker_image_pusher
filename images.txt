@@ -1,2 +1,1 @@
-outlinewiki/outline:0.81.1
-requarks/wiki:2.5
+quay.io/keycloak/keycloak:26.1.0
