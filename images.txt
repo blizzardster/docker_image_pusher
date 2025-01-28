@@ -1,1 +1,2 @@
-solidnerd/bookstack:24.12.1
+linuxserver/bookstack:latest
+linuxserver/mariadb:latest
