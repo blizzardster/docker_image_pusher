@@ -1,4 +1,1 @@
-steveltn/https-portal:1.24
-adguard/adguardhome:v0.107.56
-linzeyi/hivision_idphotos:v1.3.1
-vaultwarden/server:1.33.0
+solidnerd/bookstack:24.12.1
