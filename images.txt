@@ -1,2 +1,1 @@
-linuxserver/bookstack:latest
-linuxserver/mariadb:latest
+chocobozzz/peertube-webserver:latest
