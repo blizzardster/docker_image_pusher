@@ -1,1 +1,1 @@
-chocobozzz/peertube:production-bookworm
+mailcow/postfix:1.78
