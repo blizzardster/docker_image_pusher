@@ -1,1 +1,1 @@
-mailcow/postfix:1.78
+neosmemo/memos:0.23
