@@ -1,1 +1,1 @@
-mysql:8.4.4
+nocodb/nocodb:0.260.6
