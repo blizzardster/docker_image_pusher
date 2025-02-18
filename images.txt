@@ -1,1 +1,1 @@
-apache/answer:1.4.2
+hashicorp/consul:1.20.3
