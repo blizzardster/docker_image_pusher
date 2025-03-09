@@ -1,1 +1,2 @@
-neosmemo/memos:0.24
+nocodb/nocodb:0.262.1
+stirlingtools/stirling-pdf:0.44.0-fat
