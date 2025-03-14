@@ -1,2 +1,1 @@
-nocodb/nocodb:0.262.2
-docmost/docmost:0.8.4
+adguard/adguardhome:v0.107.57
