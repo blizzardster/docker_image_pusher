@@ -1,1 +1,1 @@
-adguard/adguardhome:v0.107.57
+neosmemo/memos:0.24.1
