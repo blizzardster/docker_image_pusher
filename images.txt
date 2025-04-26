@@ -1,2 +1,1 @@
-portainer/portainer-ce:2.27.4
-adguard/adguardhome:v0.107.60
+qbittorrentofficial/qbittorrent-nox:5.0.5-1
