@@ -1,1 +1,1 @@
-qbittorrentofficial/qbittorrent-nox:5.1.0-1
+caddy:2.10.0
