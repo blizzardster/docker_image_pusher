@@ -1,1 +1,11 @@
-portainer/portainer-ce:2.27.7
+portainer/portainer-ce:2.27.9
+adguard/adguardhome:v0.107.63
+httpd:2.4.64
+tomcat:10.1.43-jdk21
+redis:6.2.19
+redis:7.4.5
+redis:8.0.3
+nocodb/nocodb:0.263.8
+stirlingtools/stirling-pdf:1.0.2-fat
+traefik:v2.11.27
+traefik:v3.4.4
