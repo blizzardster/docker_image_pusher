@@ -1,2 +1,1 @@
-jc21/nginx-proxy-manager:2.12.6
-qbittorrentofficial/qbittorrent-nox:5.1.2-2
+rustdesk/rustdesk-server:1.1.14
