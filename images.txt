@@ -1,2 +1,1 @@
-adguard/adguardhome:v0.107.65
-finab/bark-server:v2.2.5
+portainer/portainer-ce:2.33.1
