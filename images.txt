@@ -1,1 +1,1 @@
-ghcr.io/hakwerk/labca-standalone
+smallstep/step-ca:0.28.4
